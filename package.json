@@ -8,11 +8,17 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@gorhom/bottom-sheet": "^3",
+    "@rainbow-me/animated-charts": "^1.0.0-alpha.5",
+    "axios": "^0.21.1",
     "expo": "~42.0.1",
     "expo-status-bar": "~1.0.4",
+    "moment": "^2.29.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-reanimated": "~2.2.0",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
